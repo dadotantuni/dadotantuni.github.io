@@ -1,11 +1,8 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=menu/menu.pdf?v=latest">
-  <title>Weiterleitung…</title>
+  <meta http-equiv="refresh" content="0; url=/files/menu.pdf?v=latest">
 </head>
 <body>
-  <p>Speisekarte wird geladen…</p>
 </body>
 </html>
